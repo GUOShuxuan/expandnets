@@ -1,7 +1,9 @@
 # Codes for ExpandNets
 
-> This is an anonymous code version for NeurIPS 2020 submission. Please do not distribute.
+> Code is in early release and may be subject to change. Please feel free to open an issue in case of questions.
 
+![Framework](framework.png)
+The code helps to get results 
 Here are codes for image classification experiments of CIFAR-10, CIFAR-100 and ImageNet.
 As for object detection and semantic segmentation, codes are available upon request.
 
