@@ -1,7 +1,5 @@
 # ExpandNets on CIFAR-10 and CIFAR-100
 
-> This is an anonymous code version for NeurIPS 2020 submission. Please do not distribute.
-
 This implements training of baseline SmallNets with 3 × 3 and 7 × 7 kernels and their ExpandNets on CIFAR-10 and CIFAR-100 respectively, 
 producing results in Table 1 in the main paper, Tables S1 and S3 in the supplementary material.
 
