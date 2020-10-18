@@ -1,5 +1,4 @@
 # ExpandNets on ImageNet
-> This is an anonymous code version for NeurIPS 2020 submission. Please do not distribute.
 
 This implements training of compact model architectures, such as MobileNet, MobileNetV2, and ShuffleNetV2 0.5× 
 and their ExpandNets on the ImageNet dataset.
