@@ -10,7 +10,7 @@ We propose 3 strategies to linearly expand a compact network. An expanded networ
 
 <!-- ![Framework](framework.png) -->
 <div align="center">
-  <img src="framework.png" height="400">
+  <img src="framework.png" height="300">
 </div>
 <p align="justify">
   Figure 1: <b> ExpandNets</b>. We propose 3 strategies to linearly expand a compact network.
