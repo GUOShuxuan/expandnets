@@ -6,8 +6,6 @@ This repository is the official PyTorch implementation of training & evaluation 
 
 ## Overview
 
-We propose 3 strategies to linearly expand a compact network. An expanded network can then be contracted back to the compact one algebraically.
-
 <!-- ![Framework](framework.png) -->
 <div align="center">
   <img src="framework.png" height="300">
