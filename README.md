@@ -8,7 +8,15 @@ This repository is the official PyTorch implementation of training & evaluation 
 
 We propose 3 strategies to linearly expand a compact network. An expanded network can then be contracted back to the compact one algebraically.
 
-![Framework](framework.png)
+<!-- ![Framework](framework.png) -->
+<div align="center">
+  <img src="framework.png" height="400">
+</div>
+<p align="justify">
+  Figure 1: <b> ExpandNets</b>. We propose 3 strategies to linearly expand a compact network.
+	An expanded network can then be contracted back to the compact one algebraically, and outperforms training the compact one, even with knowledge distillation.
+</p>
+
 
 ## Image Classification
 Here are code for image classification experiments on CIFAR-10, CIFAR-100 and ImageNet.
